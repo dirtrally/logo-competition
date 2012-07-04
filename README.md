@@ -14,7 +14,7 @@ So, you are interested in giving a try creating an amazing logo for Dirt Rally g
 You can add any number of different logo proposals in your folder.
 
 # Terms and conditions
-By sending us your logo proposal, you agree with our terms and conditions! Please read [Terms and conditions](terms_and_conditions.md) file!
+By sending us your logo proposal, you agree with our terms and conditions! Please read [Terms and conditions](terms_and_conditions.md)!
 
 # Competition timeframe
 The whole thing starts on 4th of July until 1st of October, 2012. So we have 3 months to do that. Don't wait until the last minute!
@@ -52,3 +52,9 @@ We are thinking to give prizes for top 3 places.
 
 ## for all participants
 * 3 months supporter subscription
+
+# Other information
+Feel free to suggest new ideas for this competition inside "issues" or send us via email: info@dirtrally.net!
+
+Dirt Rally Team!
+&copy; 2012
