@@ -11,7 +11,15 @@ So, you are interested in giving a try creating an amazing logo for Dirt Rally g
 3. Modify the `README.md` file and type a good description, why you have decided to create it that way. Who inspired you, etc.. 
 4. Create a pull request of your fork.
 
-You can add any number of different logo proposals in your folder.
+You can add any number of different logo proposals, but they have to be in a different folder.
+
+For example, below should be yours repo content:
+
+```
+your_name_first_logo_proposal/
+your_name_2nd_better_logo_proposal/
+etc../
+```
 
 # Terms and conditions
 By sending us your logo proposal, you agree with our terms and conditions! Please read [Terms and conditions](terms_and_conditions.md)!
