@@ -10,4 +10,4 @@
 # What do you need to provide?
 * logo (png/psd formats) with any type of software you like
 * favicon (for browser)
-* iPhone style icon (for future mobile app)
+* iPhone/Android/Gravatar style logo (for future mobile app, but not necessary). This small square logo could be used as avatar.
