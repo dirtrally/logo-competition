@@ -33,3 +33,18 @@ Competition wouldn't be so much enjoyable and fun without awards and prizes.
 We are thinking to give prizes for top 3 places.
 
 ## 1st place winner
+* 1 year supporter subscription
+* 1 t-shirt with brand new logo
+* "huge thanks" message in facebook, twitter
+* your name under "about us" page, as a logo creator
+
+## 2nd place
+* 6 months supporter subscription
+* 1 t-shirt with brand new logo
+
+## 3rd place
+* 3 months supporter subscription
+* 1 t-shirt with brand new logo
+
+## for all participants
+* 3 months supporter subscription
