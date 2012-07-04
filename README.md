@@ -22,7 +22,7 @@ etc../
 ```
 
 # Terms and conditions
-By sending us your logo proposal, you agree with our terms and conditions! Please read [Terms and conditions](terms_and_conditions.md)!
+By sending us your logo proposal, you agree with our terms and conditions! Please read [Terms and conditions](dirtrally-logo-competition/blob/master/terms_and_conditions.md)!
 
 # Competition timeframe
 The whole thing starts on 5th of July until 1st of October, 2012. So we have 3 months to do that. Don't wait until the last minute!
