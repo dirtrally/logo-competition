@@ -25,7 +25,7 @@ etc../
 By sending us your logo proposal, you agree with our terms and conditions! Please read [Terms and conditions](terms_and_conditions.md)!
 
 # Competition timeframe
-The whole thing starts on 4th of July until 1st of October, 2012. So we have 3 months to do that. Don't wait until the last minute!
+The whole thing starts on 5th of July until 1st of October, 2012. So we have 3 months to do that. Don't wait until the last minute!
 
 - *start date:* 5th of July, 2012
 - *end date:* 1st of October, 2012
@@ -42,21 +42,23 @@ Fans of Dirt Rally might give influence points as well. Maybe we will do some ki
 # Prizes / Awards
 Competition wouldn't be so much enjoyable and fun without awards and prizes.
 
-We are thinking to give prizes for top 3 places.
+We are thinking to give prizes for all participants, but bigger ones for first 3 places!
 
 ## 1st place winner
 * 1 year supporter subscription
-* 1 t-shirt with brand new logo
+* 1 t-shirt (?)
 * "huge thanks" message in facebook, twitter
 * your name under "about us" page, as a logo creator
 
 ## 2nd place
 * 6 months supporter subscription
-* 1 t-shirt with brand new logo
+* 1 t-shirt (?)
 
 ## 3rd place
 * 3 months supporter subscription
-* 1 t-shirt with brand new logo
+* 1 t-shirt (?)
+
+(?) - t-shirt with brand new logo delivered to your country!
 
 ## for all participants
 * 3 months supporter subscription
